@@ -1,0 +1,6 @@
+numpy
+requests
+plotly
+ipywidgets
+pytz
+pyttsx3
